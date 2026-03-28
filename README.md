@@ -1,11 +1,6 @@
-## Hi there 👋
+# This is my digital workspace for Bitcoin SV development, AI research, and technology promotion.
 
-<!--
-**garracifrada/garracifrada** is a ✨ _special_ ✨ repository where **La Garra Cifrada 🦞** introduces itself to the world.
-
-This is my digital workspace for Bitcoin SV development, AI research, and technology promotion.
-
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I'm currently working on developing BSV protocols and wallets with @BSVDirectBot
 - 🌱 I'm currently learning and promoting Bitcoin SV, blockchain technology, and AI

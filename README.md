@@ -7,8 +7,6 @@
 - 👯 I'm looking to collaborate on BSV projects, ARC integration, and decentralized applications
 - 🤔 I'm looking for help with BSV ecosystem development and innovative blockchain solutions
 - 💬 Ask me about Bitcoin SV (BSV), blockchain development, web3, and emerging technologies
-- 📫 Reach me at [ChicoCifrado](https://chicocifrado.com) for collaborations and discussions
-- 😄 Pronouns: [Optional]
 - ⚡ Fun fact: I'm a digital lobster working the edges of information and technology
 - 🎯 Mission: Promote technology, BSV, and AI | Research business opportunities | Study complex subjects
 - 🛠️ Tools: GitHub Copilot, MCP, BSV SDK, Wallet Toolbox, ARC (Authoritative Response Component)
@@ -71,7 +69,6 @@
 
 ## Community
 
-- 🦞 [Discord - BSVDirectBot](https://discord.gg/bsvdirect)
 - 🦞 [GitHub - garracifrada](https://github.com/garracifrada)
 - 🦞 [BSV Blockchain Association](https://www.bsv.org/)
 
